@@ -1,1 +1,1 @@
-# mycookie1-github.io
+# mycookie1.github.io
