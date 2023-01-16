@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Jekyll 설치"
+---
+
+
 ## gitPage
 gitPage를 사용해서 블로그를 사용하기로 함
 
